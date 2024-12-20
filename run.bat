@@ -1,0 +1,2 @@
+python LungCancerStages.py
+pause
